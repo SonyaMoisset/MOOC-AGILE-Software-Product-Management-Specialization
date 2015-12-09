@@ -13,4 +13,4 @@ In this specialization you will master Agile software practices to lead a team o
 ##Updates
 ###09/12/2015
 - Enrolled in the program
-
+- Finished Week 1 | Software Product Management - The Discipline in Course 1 | Introduction to Software Product Management
