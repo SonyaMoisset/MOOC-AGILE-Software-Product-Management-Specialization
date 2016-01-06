@@ -9,9 +9,18 @@ Upon successful completion of this course, you will be able to:
 - Gauge the applicability of process models for a software development project.
 - Apply the fundamentals of Agile software development and management practices.
  
-#### Week 1 
+#### Week 1
 ##### Module 1: Introduction to Processes
 - Introduction
 - Lesson 1: Processes and Practices
 - Lesson 2: Software Engineering Activities
-- Quiz: Module 1 Assessment (Graded)
+- Quiz: Module 1 Assessment | 88%
+
+#### Week 2
+##### Module 2: Process Models
+- Lesson 1: Linear Models
+- Lesson 2: Spiral Model
+- Lesson 3: Unified Process
+- Lesson 4: Prototyping
+- Lesson 5: Continuous Delivery
+- Quiz: Module 2 Assessment | 100%
