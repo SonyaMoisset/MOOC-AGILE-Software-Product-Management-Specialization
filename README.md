@@ -19,4 +19,7 @@ In this specialization you will master Agile software practices to lead a team o
 - Finished Week 2 | Specialization Preview in Course 1 | Introduction to Software Product Management
 
 ### 21/12/2015
-- Finished Week 1 | Introduction to Processes in Course 1 | Software Processes and Agile Practices
+- Finished Week 1 | Introduction to Processes in Course 2 | Software Processes and Agile Practices
+
+### 06/01/2015
+- Finished Week 2 | Process Models in Course 2 | Software Processes and Agile Practices
