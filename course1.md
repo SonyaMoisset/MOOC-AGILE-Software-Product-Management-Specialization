@@ -9,14 +9,14 @@ Upon successful completion of this course, you will be able to:
  - Recognize the role of a software product manager
  - Reflect on how Agile principles will improve your own projects
  
-#### Week 1 
+#### Week 1
 ##### Software Product Management - The Discipline
 - Introduction
 - Lesson 1: Better Software
 - Lesson 2: Why Software Product Management?
 - Lesson 3: The Role of a Software Product Manager
 - Lesson 4: Specialization Overview
-- Quiz: Module 1 (Graded)
+- Quiz: Module 1 | 100%
 
 #### Week 2
 ##### Specialization Preview
@@ -27,5 +27,5 @@ Upon successful completion of this course, you will be able to:
 - Lesson 5: Why Planning?
 - Lesson 6: Why Monitoring?
 - Course Conclusion
-- Quiz: Module 2 (Graded)
-- Quiz: Course Final Assessment (Graded)
+- Quiz: Module 2 | 100%
+- Quiz: Course Final Assessment | 93%
