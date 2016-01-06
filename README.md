@@ -23,3 +23,4 @@ In this specialization you will master Agile software practices to lead a team o
 
 ### 06/01/2015
 - Finished Week 2 | Process Models in Course 2 | Software Processes and Agile Practices
+- Finished Week 3 | Agile Practices in Course 2 | Software Processes and Agile Practices
