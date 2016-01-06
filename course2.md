@@ -24,3 +24,10 @@ Upon successful completion of this course, you will be able to:
 - Lesson 4: Prototyping
 - Lesson 5: Continuous Delivery
 - Quiz: Module 2 Assessment | 100%
+
+#### Week 3
+##### Module 3: Agile Practices
+- Lesson 1: Using Agile With Process Models
+- Lesson 2: Extreme Programming
+- Lesson 3: Scrum
+- Quiz: Module 3 Assessment | 100%
