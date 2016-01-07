@@ -31,3 +31,11 @@ Upon successful completion of this course, you will be able to:
 - Lesson 2: Extreme Programming
 - Lesson 3: Scrum
 - Quiz: Module 3 Assessment | 100%
+
+#### Week 4
+##### Module 4: Other Practices
+- Lesson 1: Agile Variations and Lean Software Development
+- Lesson 2: Kanban
+- Course Conclusion
+- Quiz: Module 4 Assessment | 100%
+- Quiz: Course Final Assessment | 97%
