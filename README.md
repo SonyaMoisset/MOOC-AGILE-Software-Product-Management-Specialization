@@ -27,3 +27,6 @@ In this specialization you will master Agile software practices to lead a team o
 
 ### 07/01/2016
 - Finished Week 4 | Other Practices in Course 2 | Software Processes and Agile Practices
+
+### 17/01/2016
+- Finished Week 1 | Introduction to Requirements in Course 3 | Client Needs and Software Requirements
