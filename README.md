@@ -30,3 +30,6 @@ In this specialization you will master Agile software practices to lead a team o
 
 ### 17/01/2016
 - Finished Week 1 | Introduction to Requirements in Course 3 | Client Needs and Software Requirements
+
+### 25/01/2016
+- Finished Week 2 | User Interaction in Course 3 | Client Needs and Software Requirements
