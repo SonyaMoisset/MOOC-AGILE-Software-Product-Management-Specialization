@@ -9,7 +9,7 @@ Upon successful completion of this course, you will be able to:
  - Visualize client needs using low-fidelity prototypes
  - Maximize the effectiveness of client interactions
  - Adapt to changing product requirements
- 
+
 #### Week 1
 ##### Introduction to Requirements
 - Introduction
@@ -18,3 +18,13 @@ Upon successful completion of this course, you will be able to:
 - Lesson 3: Changing Requirements/Controlling Scope
 - Lesson 4: Requirements and Design
 - Quiz: Module 1 Assessment | 100%
+
+#### Week 2
+##### User Interaction
+- Lesson 1: Scenario
+- Lesson 2: User Considerations
+- Lesson 3: Involving Clients
+- Lesson 4: Use Cases
+- Lesson 5: Wireframes
+- Lesson 6: Storyboards
+- Quiz: Module 2 Assessment | 100%
