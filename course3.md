@@ -37,3 +37,13 @@ Upon successful completion of this course, you will be able to:
 - Lesson 4: Product Backlog
 - Lesson 5: Story Maps
 - Quiz: Module 3 Assessment | 100%
+
+
+#### Week 4
+##### Quality Requirements
+- Lesson 1: Criteria for User Stories
+- Lesson 2: Ambiguous Requirements
+- Lesson 3: Course Summary
+- Course Conclusion
+- Quiz: Module 4: Assessment | 75%
+- Quiz: Course Assessment | 91%
