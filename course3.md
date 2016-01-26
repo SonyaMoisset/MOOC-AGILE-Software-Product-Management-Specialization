@@ -28,3 +28,12 @@ Upon successful completion of this course, you will be able to:
 - Lesson 5: Wireframes
 - Lesson 6: Storyboards
 - Quiz: Module 2 Assessment | 100%
+
+#### Week 3
+##### Writing Requirements
+- Lesson 1: Agile Requirements
+- Lesson 2: User Stories
+- Lesson 3: Acceptance Tests
+- Lesson 4: Product Backlog
+- Lesson 5: Story Maps
+- Quiz: Module 3 Assessment | 100%
