@@ -45,5 +45,5 @@ Upon successful completion of this course, you will be able to:
 - Lesson 2: Ambiguous Requirements
 - Lesson 3: Course Summary
 - Course Conclusion
-- Quiz: Module 4: Assessment | 75%
+- Quiz: Module 4: Assessment | 100%
 - Quiz: Course Assessment | 91%
