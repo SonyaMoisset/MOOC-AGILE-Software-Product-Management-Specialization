@@ -6,7 +6,7 @@ In this specialization you will master Agile software practices to lead a team o
 
 #### Course 1. Introduction to Software Product Management | 97%
 #### Course 2. Software Processes and Agile Practices | 97%
-#### Course 3. Client Needs and Software Requirements
+#### Course 3. Client Needs and Software Requirements | 98%
 #### Course 4. Agile Planning for Software Products
 #### Course 5. Reviews & Metrics for Software Improvements
 
@@ -37,3 +37,6 @@ In this specialization you will master Agile software practices to lead a team o
 ### 26/01/2016
 - Finished Week 3 | Writings Requirements in Course 3 | Client Needs and Software Requirements
 - Finished Week 4 | Quality Requirements in Course 3 | Client Needs and Software Requirements
+
+### 29/01/2016
+- Finished Week 1 | Introduction to Planning in Course 4 | Agile Planning for Software Products
