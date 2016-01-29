@@ -18,4 +18,4 @@ Upon successful completion of this course, you will be able to:
 - Lesson 2: Uncertainty Space
 - Lesson 3: Work Breakdown Structure
 - Lesson 4: Estimates, Targets, and Commitments
-- Quiz: Module 1: Assessment
+- Quiz: Module 1: Assessment | 100%
