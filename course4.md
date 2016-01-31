@@ -28,3 +28,12 @@ Upon successful completion of this course, you will be able to:
 - Lesson 4: Gantt Charts
 - Lesson 5: Release Plans
 - Quiz: Module 2: Assessment | 100%
+
+#### Week 3
+##### Iteration Planning
+- Lesson 1: Estimating Task Time
+- Lesson 2: Task Dependencies
+- Lesson 3: CPM Chart
+- Lesson 4: PERT Chart
+- Lesson 5: Iteration Planning
+- Quiz: Module 3: Assessment | 100%
