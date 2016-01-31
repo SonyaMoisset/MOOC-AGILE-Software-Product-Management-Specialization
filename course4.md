@@ -19,3 +19,12 @@ Upon successful completion of this course, you will be able to:
 - Lesson 3: Work Breakdown Structure
 - Lesson 4: Estimates, Targets, and Commitments
 - Quiz: Module 1: Assessment | 100%
+
+#### Week 2
+##### Project Planning
+- Lesson 1: Story Points
+- Lesson 2: Velocity Estimates
+- Lesson 3: Time Boxing
+- Lesson 4: Gantt Charts
+- Lesson 5: Release Plans
+- Quiz: Module 2: Assessment | 100%
