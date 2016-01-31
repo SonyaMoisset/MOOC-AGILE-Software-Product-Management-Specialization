@@ -43,3 +43,4 @@ In this specialization you will master Agile software practices to lead a team o
 
 ### 31/01/2016
 - Finished Week 2 | Project Planning in Course 4 | Agile Planning for Software Products
+- Finished Week 3 | Iteration Planning in Course 4 | Agile Planning for Software Products
