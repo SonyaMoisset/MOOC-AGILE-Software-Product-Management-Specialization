@@ -7,7 +7,7 @@ In this specialization you will master Agile software practices to lead a team o
 #### Course 1. Introduction to Software Product Management | 97%
 #### Course 2. Software Processes and Agile Practices | 97%
 #### Course 3. Client Needs and Software Requirements | 98%
-#### Course 4. Agile Planning for Software Products
+#### Course 4. Agile Planning for Software Products | 99%
 #### Course 5. Reviews & Metrics for Software Improvements
 
 ## Updates
@@ -44,3 +44,6 @@ In this specialization you will master Agile software practices to lead a team o
 ### 31/01/2016
 - Finished Week 2 | Project Planning in Course 4 | Agile Planning for Software Products
 - Finished Week 3 | Iteration Planning in Course 4 | Agile Planning for Software Products
+
+### 01/02/2016
+- Finished Week 4 | Risk Planning in Course 4 | Agile Planning for Software Products
