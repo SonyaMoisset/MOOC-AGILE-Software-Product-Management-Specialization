@@ -37,3 +37,13 @@ Upon successful completion of this course, you will be able to:
 - Lesson 4: PERT Chart
 - Lesson 5: Iteration Planning
 - Quiz: Module 3: Assessment | 100%
+
+#### Week 4
+##### Risk Planning
+- Lesson 1: Anti-Patterns
+- Lesson 2: Common Causes of Failure
+- Lesson 3: Risk Assessment, Likelihood, and Impact
+- Lesson 4: Risk Strategies, Contingency, Mitigation
+- Course Conclusion
+- Quiz: Module 4: Assessment | 100%
+- Quiz: Course Final Assessment | 97%
