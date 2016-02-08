@@ -47,3 +47,6 @@ In this specialization you will master Agile software practices to lead a team o
 
 ### 01/02/2016
 - Finished Week 4 | Risk Planning in Course 4 | Agile Planning for Software Products
+
+### 09/02/2016
+- Finished Week 1 | Right Product in Course 5 | Reviews & Metrics for Software Improvements
