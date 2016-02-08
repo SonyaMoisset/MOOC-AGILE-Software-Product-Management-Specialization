@@ -17,3 +17,12 @@ Upon successful completion of this course, you will be able to:
 - Lesson 1.2: Sprint Review Meeting
 - Lesson 1.3: User Studies
 - Lesson 1.4: Industry Examples
+
+#### Week 2
+##### Module 2: Done Right
+- Lesson 2.1: Review Techniques
+- Lesson 2.2: Monitoring Issues
+- Lesson 2.3: Goal, Question, Metric (GQM)
+- Lesson 2.4: Desirable Properties of Metrics
+- Lesson 2.5: Other Metrics
+- Lesson 2.6: Defect Analysis
