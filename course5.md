@@ -26,3 +26,10 @@ Upon successful completion of this course, you will be able to:
 - Lesson 2.4: Desirable Properties of Metrics
 - Lesson 2.5: Other Metrics
 - Lesson 2.6: Defect Analysis
+
+#### Week 3
+##### Module 3: Managed Right
+- Lesson 3.1: Daily Scrum
+- Lesson 3.2: Velocity
+- Lesson 3.3: Release Burndown Chart
+- Lesson 3.4: Iteration Burndown Chart
