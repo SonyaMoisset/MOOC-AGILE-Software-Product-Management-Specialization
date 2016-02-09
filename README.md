@@ -1,5 +1,6 @@
 # Software Product Management Specialization
 ## Create better software. Confidently interact with clients.
+# COURSE AUDIT COMPLETED
 ### Created by The University of Alberta
 
 In this specialization you will master Agile software practices to lead a team of developers and interact with clients. In the final capstone project you will practice and apply management techniques to realistic scenarios that you will face in your career as a Software Product Manager. You will have the opportunity to share your experiences and learn from the insights of others as part of a Software Product Management community.
@@ -8,7 +9,7 @@ In this specialization you will master Agile software practices to lead a team o
 #### Course 2. Software Processes and Agile Practices | 97%
 #### Course 3. Client Needs and Software Requirements | 98%
 #### Course 4. Agile Planning for Software Products | 99%
-#### Course 5. Reviews & Metrics for Software Improvements
+#### Course 5. Reviews & Metrics for Software Improvements | \%
 
 ## Updates
 ### 09/12/2015
@@ -52,3 +53,4 @@ In this specialization you will master Agile software practices to lead a team o
 - Finished Week 1 | Right Product in Course 5 | Reviews & Metrics for Software Improvements
 - Finished Week 2 | Done Right in Course 5 | Reviews & Metrics for Software Improvements
 - Finished Week 3 | Managed Right in Course 5 | Reviews & Metrics for Software Improvements
+- Finished Week 4 | Project Retrospectives in Course 5 | Reviews & Metrics for Software Improvements
