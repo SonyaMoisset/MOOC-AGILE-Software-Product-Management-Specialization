@@ -33,3 +33,11 @@ Upon successful completion of this course, you will be able to:
 - Lesson 3.2: Velocity
 - Lesson 3.3: Release Burndown Chart
 - Lesson 3.4: Iteration Burndown Chart
+
+#### Week 4
+##### Module 4: Project Retrospectives
+- Lesson 4.1: Retrospectives
+- Lesson 4.2: Retrospectives Issues
+- Lesson 4.3: Sprint Retrospective
+- Lesson 4.4: Project Retrospective Exercises
+- Course Summary
